@@ -1,4 +1,4 @@
-![Profile-Banner](https://github.com/jordaan-c/Image/blob/8616ebc3352556f9f7e4103d59aabd4987127436/Data-Visualisation-2.jpg)
+![Profile-Banner](https://github.com/jordaan-c/Image/blob/479b42caf44c0a53411d2fa008bd0d24f0e62c27/Data-Visualisation-2-%5BCropped%5D.png)
 
 Hi, I'm Jordaan. I use Python for data analysis and other projects.
 
