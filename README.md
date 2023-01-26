@@ -1,4 +1,12 @@
-### Hi there 👋
+![Profile-Banner](https://github.com/jordaan-c/Image/blob/8616ebc3352556f9f7e4103d59aabd4987127436/Data-Visualisation-2.jpg)
+
+Hi, I'm Jordaan. I use Python for data analysis and other projects.
+
+**Skills and Experience:**
+- 📚 Pandas | Matplotlib 
+- 💻 Python | SQL
+- 📑 Spyder | Jupyter Notebook
+
 
 <!--
 **jordaan-c/jordaan-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Jordaan. 
-
-**Skills and Experience:**
-- 📚 Pandas | Matplotlib 
-- 💻 Python | SQL
