@@ -3,9 +3,12 @@
 Hi, I'm Jordaan. I use Python for data analysis and other projects.
 
 **Skills and Experience:**
-- 📚 Pandas | Matplotlib 
-- 💻 Python | SQL
+- 💻 Python | SQL | Tableau | Power BI
+- 📚 Pandas | Matplotlib | Sklearn
 - 📑 Spyder | Jupyter Notebook
+
+**Currently learning:**
+- 🌱 AWS and other cloud technologies.
 
 
 <!--
